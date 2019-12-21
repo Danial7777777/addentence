@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/attendance-parent.iml" filepath="$PROJECT_DIR$/attendance-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attendance_common/attendance_common.iml" filepath="$PROJECT_DIR$/attendance_common/attendance_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attendance_model/attendance_model.iml" filepath="$PROJECT_DIR$/attendance_model/attendance_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attendance_rest/attendance_rest.iml" filepath="$PROJECT_DIR$/attendance_rest/attendance_rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attendance_service/attendance_service.iml" filepath="$PROJECT_DIR$/attendance_service/attendance_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attendance_storage/attendance_storage.iml" filepath="$PROJECT_DIR$/attendance_storage/attendance_storage.iml" />
+    </modules>
+  </component>
+</project>

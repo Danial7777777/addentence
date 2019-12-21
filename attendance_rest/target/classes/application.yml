@@ -1,0 +1,10 @@
+server:
+  port: 8080
+  ###mybatis plus 代码
+generate: false
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://121.40.35.133:3306/attendance?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
